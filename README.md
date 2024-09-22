@@ -23,5 +23,5 @@ pip install -r requirements.txt
 Run the Script
 
 ```bash
-# TBD
+python main.py "data/<my_bank>/<bill>.ofx" 
 ```

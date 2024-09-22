@@ -1,0 +1,3 @@
+ofxparse==0.21
+pandas==2.2.3
+ollama==0.3.3
